@@ -13,3 +13,9 @@ increment, decrement, and reset a number.
 - HTML
 - CSS
 - JavaScript
+
+## Development Workflow
+- Built and tested locally using the macOS Terminal
+- Version control with Git
+- Authenticated and pushed to GitHub using SSH
+- Deployed as a live site using GitHub Pages
